@@ -1,0 +1,364 @@
+/* Apply background color to the entire page */
+body {
+    background-color: #f7f5f0;
+    /* Light beige color for the whole page */
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    /* Optional: change the font for the entire page */
+}
+
+/* Header */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 15vh;
+    /* 15% of the viewport height */
+    margin: 0 10px;
+    /* margin on all sides */
+    background-color: #f7f5f0;
+    /* Header background color */
+}
+
+/* Search Bar */
+.search-bar {
+    position: relative;
+    width: 20%;
+    /* Adjust the width to a more reasonable size */
+}
+
+.search-bar input {
+    width: 100%;
+    /* Set the input box to 100% width of its container */
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    /* Ensure padding is included in the width calculation */
+}
+
+.search-bar .search-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.2rem;
+    color: #ccc;
+}
+
+/* Store Title */
+.store-title {
+    flex: 1;
+    text-align: center;
+}
+
+.store-title h1 {
+    font-family: 'Courier New', Courier, monospace;
+    /* Example great font */
+    font-size: 3.0rem;
+    font-weight: bold;
+    color: #b5223b;
+    /* Title color */
+    animation: fadeIn 2s ease-in-out;
+}
+
+/* Menu Items */
+.menu-items {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    order: 2;
+    /* This ensures the menu items appear last */
+}
+
+.menu-item {
+    text-decoration: none;
+    color: black;
+    /* Icon (menu item) color */
+    font-size: 1.5rem;
+    margin: 0 10px;
+    /* Add space between menu items */
+}
+
+/* Animation for the Store Title */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Make it responsive */
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        /* Stack items vertically on smaller screens */
+        height: auto;
+    }
+
+    .store-title h1 {
+        font-size: 1.5rem;
+        text-align: center;
+        /* Center-align the title */
+    }
+
+    .search-bar input {
+        width: 80%;
+        /* Reduce input box width on smaller screens */
+        margin: 10px 0;
+        /* Add margin on top and bottom */
+    }
+
+    .menu-items {
+        justify-content: center;
+        /* Center align the menu on small screens */
+        flex-direction: row;
+    }
+}
+
+
+/* Wiggle animation */
+@keyframes wiggle {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(-5deg);
+    }
+
+    50% {
+        transform: rotate(5deg);
+    }
+
+    75% {
+        transform: rotate(-5deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
+/* Apply wiggle animation when hovering */
+.menu-item i,
+.search-icon {
+    transition: transform 0.3s ease-in-out;
+}
+
+.menu-item i:hover,
+.search-icon:hover {
+    animation: wiggle 0.3s ease-in-out;
+}
+
+
+/* Hero Section */
+.hero {
+    position: relative;
+    width: 100%;
+    height: 60vh;
+    /* Adjust height */
+    background: url("https://source.unsplash.com/1600x900/?liquor,wine") center/cover no-repeat;
+
+    /* Background image */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    /* Text color */
+}
+
+/* Dark Overlay for Better Readability */
+.hero-overlay {
+    background: rgba(0, 0, 0, 0.6);
+    /* Dark transparent overlay */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Quote Styling */
+.quote {
+    font-size: 2rem;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+/* Hero Section */
+.hero {
+    position: relative;
+    width: 100%;
+    height: 70vh;
+    /* Height for visual impact */
+    background: url('../assets/champagne.jpeg') center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+/* Gradient Overlay */
+.hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7));
+    /* Subtle gradient overlay */
+    z-index: 1;
+}
+
+/* Center Content */
+.hero-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    max-width: 70%;
+}
+
+/* Quote Styling */
+.hero-quote {
+    color: #f7f5f0;
+    font-size: 3.5rem;
+    /* Increased font size */
+    font-weight: 600;
+    font-family: 'Playfair Display', serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    animation: fadeIn 2s ease-in-out;
+}
+
+/* Fade-in Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .hero {
+        height: 50vh;
+    }
+
+    .hero-quote {
+        font-size: 2rem;
+        /* Reduced size on smaller screens */
+    }
+}
+
+
+/* Alcohol Categories Section */
+.alcohol-categories {
+    background-color: #f7f5f0;
+    padding: 40px 0;
+}
+
+.alcohol-categories .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.alcohol-categories .card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.alcohol-categories .card-body {
+    padding: 1rem;
+}
+
+.alcohol-categories .card-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #b5223b;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Hover effect */
+.alcohol-categories .card:hover {
+    transform: translateY(-10px);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .alcohol-categories .card-img-top {
+        height: 150px;
+    }
+
+    .alcohol-categories .card-title {
+        font-size: 1.1rem;
+    }
+}
+
+
+.category {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 2.0rem;
+    color: #b5223b;
+}
+
+
+/* Modal styling */
+#product-modal {
+    display: none;
+    position: fixed;
+    /* Fix it on the screen */
+    z-index: 1050;
+    /* Make sure it's on top of other content */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Semi-transparent background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Modal content */
+.modal-content {
+    background-color: rgba(247, 245, 240, 255);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+    width: 90%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Close button */
+#close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+/* Modal Title and Location */
+#modal-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#modal-location {
+    font-size: 1.2rem;
+}
