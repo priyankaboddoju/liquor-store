@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Load products data from data.json
     let productsData = {};
 
-    fetch('data.json')
+    fetch('https://raw.githubusercontent.com/priyankaboddoju/liquor-store/main/data.json')
         .then(response => response.json())
         .then(data => {
             productsData = data;
