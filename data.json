@@ -1,0 +1,295 @@
+{
+    "A": {
+        "A11": [
+            "Hazlitt Red Cat",
+            "Mark West Pinot Noir",
+            "Beringer Red Crush",
+            "Barefoot Merlot",
+            "90+ Sauvignon Blanc",
+            "Woodbridge Chardonnay",
+            "Yellow tail Chardonnay"
+        ],
+        "A12": [
+            "Simi Brightful Chardonnay",
+            "Kendall Jackson Avant Chardonnay",
+            "Kendall Jackson Low Calorie Chardonnay",
+            "19 Crimes Chardonnay",
+            "Zero Chardonnay",
+            "Zero Cabernet Sauvignon",
+            "Zero Pinot Grigio",
+            "Bellissima",
+            "Yellow Tail Pinot Grigio"
+        ],
+        "A13": [
+            "Yellow Tail Chardonnay",
+            "Kim Crawford Sauvignon Blanc",
+            "Ste Chateau Michelle Chardonnay",
+            "Ste Chateau Michelle Sauvignon Blanc",
+            "Woodbridge Red Blend"
+        ],
+        "A14": [
+            "Bota Box Pinot Grigio",
+            "Bota Box Red Blend",
+            "Bota Box Sauvignon Blanc",
+            "Fitvine Chardonnay",
+            "Fitvine Cabernet Sauvignon",
+            "Fitvine Sauvignon Blanc"
+        ],
+        "A15": [
+            "Nighthawk Red Wine Blend",
+            "Gratsi Red",
+            "Gratsi White",
+            "Gratsi Rose",
+            "Barefoot Pinot Grigio",
+            "Barefoot Chardonnay",
+            "Barefoot Buttery Chardonnay"
+        ],
+        "A16": [
+            "Black Box Sauvignon Blanc",
+            "Black Box Chardonnay",
+            "Black Box Pinot Noir",
+            "Black Box Chardonnay",
+            "Black Box Cabernet Sauvignon",
+            "Black Box Merlot"
+        ],
+        "A21": [
+            "Clos du Bois Chardonnay California",
+            "Sutter Home Sauvignon Blanc",
+            "Glen Ellen Merlot",
+            "Sutter Home Cabernet Sauvignon",
+            "Bardolino Zeni",
+            "CK Mondavi Cabernet Sauvignon"
+        ],
+        "A22": [
+            "Clos du Bois Chardonnay California",
+            "Blackstone Merlot",
+            "J. Lohr Cabernet Sauvignon",
+            "Vint California Robert Mondavi",
+            "Robert Mondavi Merlot California",
+            "Blackstone Cabernet Sauvignon California",
+            "Beringer Founders Estate Cabernet Sauvignon"
+        ],
+        "A23": [
+            "Carmenet Chardonnay California",
+            "J. Lohr Chardonnay",
+            "90+ Chardonnay California",
+            "90+ Pinot Noir California",
+            "Mark West Pinot Noir"
+        ],
+        "A24": [
+            "Sutter Home Sauvignon Blanc",
+            "Sutter Home Cabernet Sauvignon",
+            "Sutter Home Chardonnay",
+            "Sutter Home Merlot",
+            "CK Mondavi Family Sauvignon Blanc California",
+            "CK Mondavi Family Merlot California",
+            "CK Mondavi Family Red Blend California",
+            "CK Mondavi Family California",
+            "CK Mondavi Family Cabernet Sauvignon California"
+        ],
+        "A25": [
+            "Bota Box Redvolution",
+            "Bota Box Merlot",
+            "Bota Box Pinot Noir",
+            "Bota Box Pinot Grigio",
+            "Bota Box Cabernet Sauvignon",
+            "Bota Box Sauvignon Blanc",
+            "Bota Box Chardonnay"
+        ],
+        "A26": [
+            "Bota Box Dry Rosé",
+            "Bota Box Old Vine Zinfandel",
+            "Nighthawk Cabernet Sauvignon",
+            "Nighthawk Rich Red Wine Blend",
+            "Nighthawk Gold Buttery Chardonnay",
+            "Nighthawk Lush Pinot Noir",
+            "Nighthawk Black Bold Cabernet Sauvignon"
+        ],
+        "A31": [
+            "Crane Lake Cabernet Sauvignon",
+            "Robert Mondavi Chardonnay",
+            "CK Mondavi Family Chardonnay California",
+            "Bardolino Zeni",
+            "Rex-Goliath Pinot Noir",
+            "Rex-Goliath Cabernet Sauvignon",
+            "Liberty Creek Merlot",
+            "Crane Lake Merlot",
+            "Lohr"
+        ],
+        "A32": [
+            "Ava Grace",
+            "Cocobon Red Blend",
+            "Acrobat Oregon",
+            "R Collection",
+            "19 Crimes Martha's Chard",
+            "19 Crimes Cali Blanc Sauvignon Blanc",
+            "Lab",
+            "Colossal Reserva",
+            "Casal Garcia Vinho Verde",
+            "Aveleda Fonte Vinho Verde",
+            "Bordeaux"
+        ],
+        "A33": [
+            "St. Michelle",
+            "Michelle",
+            "Two Vines",
+            "Pinot Grigio 14 Hands",
+            "Glen Ellen Merlot",
+            "Woodbridge California Chardonnay",
+            "Woodbridge Cabernet Sauvignon",
+            "Woodbridge Butterfly Chardonnay",
+            "Woodbridge Pinot Noir",
+            "Woodbridge Lightly Oaked Chardonnay",
+            "Bardolino Zeni"
+        ],
+        "A34": [
+            "CK Mondavi Cabernet Sauvignon",
+            "Cupcake",
+            "Crane Lake Sauvignon Blanc",
+            "Crane Lake Pinot Noir",
+            "Crane Lake Chardonnay",
+            "Crane Lake Cabernet Sauvignon",
+            "Crane Lake Merlot",
+            "Fox Brook Cabernet Sauvignon",
+            "Woodbridge Merlot",
+            "Woodbridge Red Blend",
+            "Woodbridge Sauvignon Blanc",
+            "Rex-Goliath Giant 47 Pound Rooster Cabernet Sauvignon",
+            "Rex-Goliath Giant 47 Pound Rooster Chardonnay"
+        ],
+        "A35": [
+            "Beringer Main & Vine Red Crush",
+            "Beringer Main & Vine Chardonnay",
+            "Beringer Main & Vine Merlot",
+            "Beringer Main & Vine Cabernet Sauvignon",
+            "Beringer Main & Vine Chenin Blanc",
+            "Villa Pozzi Cabernet Sauvignon",
+            "San Nicola Pinot Noir",
+            "San Nicola Cabernet Sauvignon",
+            "San Nicola Merlot",
+            "Liberty Creek Merlot",
+            "Liberty Creek Cabernet Sauvignon"
+        ],
+        "A36": [
+            "Franzia Chillable Red",
+            "Franzia Pinot Grigio Colombard",
+            "Franzia Sauvignon Blanc",
+            "Franzia Fruity Red Sangria",
+            "Franzia Sunset Blush",
+            "Franzia Crisp White"
+        ],
+        "A41": [
+            "Château La Croix d'Yvrac Bordeaux",
+            "Belleruche Côtes du Rhône",
+            "Rich fruit flavor easy to savor Cabernet Sauvignon Yellow Tail",
+            "Sweet fizzy and so easy to love Moscato Yellow Tail",
+            "Yellow Tail Pinot Noir",
+            "Monte Antico",
+            "Villa Fassini Toscana",
+            "Bleu de Mer",
+            "Cocobon Red Blend",
+            "Tempesta",
+            "Georges Duboeuf Beaujolais Nouveau",
+            "Barefoot Merlot",
+            "Yellow Tail Pinot Noir",
+            "Conte Placido"
+        ],
+        "A42": [
+            "Château Lacure Bordeaux",
+            "Château Castagna Bordeaux",
+            "Château Larose-Trintaudon Le Haut-Medoc",
+            "Pouilly-Fuissé",
+            "Côté Mas Sauvignon Vermentino",
+            "Sauvignon Blanc CF France",
+            "Porta Veta",
+            "Villa Fassini Toscana",
+            "Santa Cristina",
+            "Masciarelli Montepulciano d'Abruzzo",
+            "Montepulciano d'Abruzzo",
+            "Tempesta",
+            "Gabbiano Chianti",
+            "Villa Corti Chianti",
+            "Chianti",
+            "Masciarelli Montepulciano d'Abruzzo",
+            "Chianti Villa Corti",
+            "Dyvrac",
+            "Pouilly-Fuissé"
+        ],
+        "A43": [
+            "Bolla Cabernet Sauvignon",
+            "Bolla Pinot Noir",
+            "Bolla Chianti",
+            "Giulio Straccali Chianti",
+            "Placido",
+            "Luna di Luna Red Blend",
+            "Carletto Montepulciano",
+            "Cinta Montepulciano d'Abruzzo",
+            "Ca` Brigiano Montepulciano d'Abruzzo",
+            "Monte Antio"
+        ],
+        "A44": [
+            "Goliath Giant 47 Pound Rooster Pinot Noir",
+            "Barefoot Cabernet Sauvignon",
+            "Barefoot Chardonnay",
+            "Anthony's Hill Chardonnay",
+            "Arcaia Cabernet Sauvignon",
+            "Arcaia Pinot Noir",
+            "Cavit Chardonnay",
+            "Cavit Pinot Noir",
+            "Cavit Cabernet Sauvignon",
+            "Cavit Merlot"
+        ],
+        "A45": [
+            "Barefoot Pinot Noir",
+            "Barefoot Sauvignon Blanc",
+            "Barefoot Merlot",
+            "Barefoot Rosé",
+            "Cavit Rosé",
+            "Rosé",
+            "Rose Oyster Bay",
+            "Josh",
+            "19 Crimes Cali Rosé",
+            "Frontera Cabernet Sauvignon Merlot",
+            "Frontera Cabernet Sauvignon",
+            "Frontera Rosé"
+        ],
+        "A46": [
+            "Franzia Crisp White",
+            "Franzia Merlot",
+            "Franzia Dark & Luscious",
+            "Franzia Fruity Red Sangria",
+            "Franzia Cabernet Sauvignon",
+            "Franzia Chardonnay"
+        ]
+    },
+    "B": {
+        "B12": [
+            "Example Product 1",
+            "Example Product 2"
+        ],
+        "B13": [
+            "Example Product 3",
+            "Example Product 4"
+        ]
+    },
+    "C": {
+        "C12": [
+            "Example Product 5",
+            "Example Product 6"
+        ],
+        "C13": [
+            "Example Product 7",
+            "Example Product 8"
+        ]
+    },
+    "D": {
+        "D12": [
+            "Example Product 9",
+            "Example Product 10"
+        ],
+        "D13": [
+            "Example Product 11",
+            "Example Product 12"
+        ]
+    }
+}
