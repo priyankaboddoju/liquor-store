@@ -951,13 +951,157 @@
         ]
     },
     "D": {
+        "D11": [
+            "Luc Belaire Bleu",
+            "Luc Belaire Rose",
+            "Luc Belaire Gold",
+            "Moet & Chandon Imperial Brut Champagne",
+            "Moet & Chandon Rose Imperial Champagne",
+            "Moet & Chandon Nectar Imperial Rose",
+            "Moet & Chandon Ice Imperial Champagne",
+            "Martini & Rossi Champagne",
+            "Korbel Brut Champagne"
+        ],
         "D12": [
-            "Example Product 9",
-            "Example Product 10"
+            "Freixenet Ice Cuvee",
+            "Freixent Brut Cordon Negro",
+            "Segura Viudas Cava Brut",
+            "XXL Sparkling Rose Moscato",
+            "XXL Sparkling Moscato",
+            "Veuve Clicquot Brut Rose Champagne",
+            "Veuve Clicquot Brut Champagne",
+            "G.H. Mumm Grand Cordon Brut",
+            "Korbel Extra Dry Champagne",
+            "Korbel Brut Champagne",
+            "Korbel Sweet Rose Champagne",
+            "Korbel Brut Rose Champagne"
         ],
         "D13": [
-            "Example Product 11",
-            "Example Product 12"
+            "JaM Cellars Butter Bubbles, Sparkling",
+            "Bubbles",
+            "Kriter Brut",
+            "Le Cardinale",
+            "Chandon Brut",
+            "Chandon Garden Spritz",
+            "Anna",
+            "Rosa Regale",
+            "Mi Amore Sparkling Red",
+            "Rossini Candonga Canella",
+            "Bubbles Oregon Sparkling wine",
+            "Ballatore Spumante",
+            "Ballatore Moscato Rose"
+        ],
+        "D14": [
+            "Yes Way Rose"
+        ],
+        "D21": [
+            "Lunetta Prosecco",
+            "90+ cellars Prosecco",
+            "Ruffino Lumina Prosecco",
+            "Lamarca Prosecco",
+            "Lamarca Prosecco Rose",
+            "Josh Prosecco D.O.C Rose",
+            "90+ Cellars Prosecco Rose",
+            "Luc Belaire Rare Rose"
+        ],
+        "D22": [
+            "Ketel One Cocktails Cosmpolitan",
+            "Laluca Prosecco",
+            "Cupcake Prosecco",
+            "Le Contesse Prosecco",
+            "Zardetto Prosecco",
+            "Villa Sandi Prosecco",
+            "Mionetto Prosecco",
+            "Kim Crawford Prosecco",
+            "Josh Prosecco",
+            "Voga Prosecco",
+            "Prosecco Villa Jolanda",
+            "Prima perla Prosecco",
+            "19 crimes Cali Gold"
+        ],
+        "D23": [
+            "Miami Cocktail goop Limonata Spritz",
+            "Miami Cocktail paloma spritz",
+            "Negroni",
+            "Aperol spritz",
+            "Spritz Del Conte",
+            "Cook's Brut",
+            "Barefoot Bubbly Moscato Champagne",
+            "Barefoot Bubbly Extra Dry",
+            "Barefoot Bubbly Brut Cuvee",
+            "Villa Jolanda Italian Sparkling Wine",
+            "Happy Birthday",
+            "Butter Bubbles"
+        ],
+        "D24": [
+            "Taylor Sherry",
+            "Taylor Marsala",
+            "Cribari Marsala",
+            "San Antonio Winery Marsala",
+            "Opici Vineyards Marsala",
+            "Melillo Marsala Sweet",
+            "Melillo Marsala Dry",
+            "Sparkling Moscato D'asti",
+            "Villa Jolanda Moscato Strawberry",
+            "Villa Jolanda Moscato & Passion Fruit",
+            "Villa Jolanda Moscato Mango",
+            "Villa Jolanda Moscato The Blue",
+            "Yes Way Rose"
+        ],
+        "D31": [
+            "On The Rocks Manhattan",
+            "On The Rocks Strawberry Daiquiri",
+            "On The Rocks Tequila Espresso Martini",
+            "On The Rocks Espresso Martini",
+            "On The Rocks Blue Hawaiian",
+            "On The Rocks Midori Sour",
+            "On The Rocks Spiced Pear Whiskey Sour",
+            "Ole Smoky Moonshine Mountain Java",
+            "Ole Smoky Moonshine Pineapples",
+            "Ole Smoky Moonshine Cherries",
+            "Ole Smoky Moonshine Peaches",
+            "Ole Smoky Moonshine Banana Pudding",
+            "Ole Smoky Moonshine Strawberry Cream"
+        ],
+        "D32": [
+            "Jose Cuervo Dragon Fruit Lemonade Margarita",
+            "Bacardi Rum Punch",
+            "Bacardi Zombie",
+            "Bacardi Hurricane",
+            "Jose Cuervo Golden Margarita",
+            "Skinny Girl Margarita",
+            "Skinny girl Cosmob",
+            "Old Fashioned Cocktail Bulleit",
+            "Manhattan Cocktail Bulleit",
+            "Tanqueray Negroni Cocktail",
+            "Crown Royal Whisky Sour"
+        ],
+        "D33": [
+            "Fonesa Bin 27",
+            "Taylor Fladgate",
+            "Quinta Do Noval 10 Yr Tawny Porto",
+            "CockBurns Special Reserve PORTO",
+            "Dow's Fine Tawny Porto",
+            "Delola Bella Berry Spritz",
+            "Delola Spritz Paloma Rosa Crafted Cocktail",
+            "Cavit Pinot Noir",
+            "Leading Role – Brody's",
+            "Cavit Pinot Grigio",
+            "Cavit Cabernet Sauvignon",
+            "Miami Cocktail Mimosa Spritz",
+            "Miami Cocktail Margarita Spritz",
+            "Miami Cocktail Paloma Spritz"
+        ],
+        "D34": [
+            "Sutter Home Pink Moscato",
+            "Sutter Home Red Moscato",
+            "Sutter Home Moscato",
+            "Sutter Home White Zinfandel",
+            "Sutter Home Merlot",
+            "Sutter Home Chardonnay",
+            "Sutter Home Cabernet Sauvignon",
+            "Sutter Home Pinot Grigio",
+            "Sutter Home Sauvignon Blanc"
         ]
     }
 }
